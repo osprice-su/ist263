@@ -1,0 +1,24 @@
+body {
+    color: #0a0909;
+    background-color: #c6c6c6;
+}
+h1{
+    color:#b1a1a1 ;
+}
+a {
+    color: #ffffff;
+}
+nav {
+    background-color: #000000;
+  padding: 10px;
+  margin-bottom: 30px;
+}
+nav a {
+    color: #c1c1c1;
+}
+nav a:hover {background-color:#f8f7f7;}
+
+.quote {float:right; margin-right: 10px;}
+.copyright {float:left; margin-left: 10px;}
+
+.behappy {float:left; margin-left: -05px;}
